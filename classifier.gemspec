@@ -26,6 +26,7 @@ Gem::Specification.new do |s|
     "VERSION",
     "bin/bayes.rb",
     "bin/summarize.rb",
+    "classifier.gemspec",
     "install.rb",
     "lib/classifier.rb",
     "lib/classifier/bayes.rb",
